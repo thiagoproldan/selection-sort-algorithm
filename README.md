@@ -112,7 +112,7 @@ if __name__ == "__main__":
 ---
 
 <details>
-    <summary>pt-BR</summary>
+    <summary>es-ES</summary>
 
 ## Introducción
 El algoritmo de ordenación Selection Sort es un algoritmo simple que divide la lista de entrada en dos partes: una sublista de elementos ordenados que se construye de izquierda a derecha y una sublista de los elementos restantes no ordenados. El algoritmo selecciona repetidamente el elemento más pequeño (o más grande, dependiendo del orden de clasificación) de la sublista no ordenada y lo mueve al final de la sublista ordenada.
